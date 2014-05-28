@@ -1,0 +1,11 @@
+{
+  "name": "webpack-dedupe",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Larry Davis <lazdnet@gmail.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "webpack": "^1.2.0-beta6"
+  }
+}
